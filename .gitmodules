@@ -1,3 +1,6 @@
 [submodule "microfic-front"]
 	path = microfic-front
 	url = https://github.com/katycarr/microfic-front
+[submodule "server"]
+	path = server
+	url = https://github.com/katycarr/microfic-back
