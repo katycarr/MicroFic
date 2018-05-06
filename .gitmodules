@@ -1,0 +1,3 @@
+[submodule "microfic-front"]
+	path = microfic-front
+	url = https://github.com/katycarr/microfic-front
